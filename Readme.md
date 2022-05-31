@@ -1,1 +1,2 @@
-Recriando a interface do Orkut, clone moderninho da rede social que bbombou nos anos 2000.
+Desafio DIO git/github
+Recriando a interface do Orkut, clone moderninho da rede social que bombou nos anos 2000.
